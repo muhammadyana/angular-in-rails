@@ -1,0 +1,13 @@
+.main
+	h1 Page#index
+	p Find me in app/views/page/index.html.slim
+	.container
+		.row
+			.col-md-6.col-md-offset-3
+				form
+					input type="text" class="form-control" ng-model="newEntry.name"
+
+				| {{newEntry.name}}
+	<div ng-controller="TestCtrl">
+	  <button ng-click="alertMe()">Click me</button>
+	</div>
