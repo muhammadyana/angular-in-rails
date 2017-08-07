@@ -5,6 +5,7 @@
 - Rails 5.1.0
 - PostgreSQL
 - git (obviously)
+- Material Bootstrap
 
 Muhammad Yana Mulyana
-Still development
+- Still development
