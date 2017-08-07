@@ -25,7 +25,7 @@
 //= require bootstrap-tagsinput
 //= require jasny-bootstrap.min
 //= require atv-img-animation
-//= require ./my_app
+
 
 
 
